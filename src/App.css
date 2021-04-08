@@ -27,6 +27,16 @@
 .App-link {
   color: #61dafb;
 }
+.person {
+  margin: 25px ;
+  border: 1px solid gainsboro
+  }
+  .red {
+    color: red;
+  }
+  .blue {
+    color: blue;
+  }
 
 @keyframes App-logo-spin {
   from {
@@ -36,3 +46,4 @@
     transform: rotate(360deg);
   }
 }
+
